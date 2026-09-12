@@ -5,5 +5,5 @@ jobs:
   tcs-scan:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses:
       - uses: kushigaur3103-svg/time-code-security@v1
